@@ -1,6 +1,6 @@
 import socket
 
-host = "mixpix.com.br"
+host = "google.com.br"
 ports = [21, 22, 23, 25, 80, 443, 445, 8080, 844, 3306, 139, 135]
 
 for port in ports:
