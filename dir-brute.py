@@ -1,6 +1,6 @@
 import requests
 
-url = "http://g1.com.br"
+url = ""
 with open("wordlist.txt", "r") as file:
     wordlist = file.readlines()
 
